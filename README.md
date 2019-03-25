@@ -1,5 +1,4 @@
 # Stock-Management-System
-# A simple stock management system using java
 
 This is my Project on Java at IIUM.
 
