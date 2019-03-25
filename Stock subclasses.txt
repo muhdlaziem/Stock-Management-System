@@ -1,0 +1,8 @@
+Stock
+-----
+-Toiletries
+-Food & Drink
+-paper/plastic
+-clothes
+-electronic
+

@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+D:\SEM 1 2017&2018\OOP\Stock Management System\.metadata\.plugins\org.eclipse.jdt.core
+1903698315.index
+2043727593.index
